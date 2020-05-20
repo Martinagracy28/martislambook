@@ -25,7 +25,7 @@ SECRET_KEY = 'pgs^gs2^!3$y&)wp-wxt+&o0a^dbmux0*$ckc&jaudd=woun$m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['martislambook.herokuapp.com','localhost']
 
 
 # Application definition
